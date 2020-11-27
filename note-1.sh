@@ -1,4 +1,7 @@
 Vitex EPIC
-
+https://gateway.vgate.io/gateway/epic-deposit/vite_98b2156251f4cf8361e9a51eae267785eeecac9950da364193-21142
 
 Binance XMR
+89Xc3ZmpsiX9PVdVsLyRkQ1bw2Sv8wg5pbhL2jCGnB8kMZPtTP5U49zE15qWLmoYPR1YJnYgVE6qVGp8PVCCMwCh31YJhgE
+
+END
